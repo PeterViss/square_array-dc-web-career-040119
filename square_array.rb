@@ -3,5 +3,5 @@ new_array = []
    new_array.push x*x
 end
 new_array
-end your code here
+
 end
