@@ -5,6 +5,6 @@ def square_array(array)
     puts number.push ** 2
 
   end
-
+number
      # your code here
 end
