@@ -3,6 +3,6 @@ def square_array(array)
 
   array.each do
     puts number * number
-  end
+
        # your code here
 end
